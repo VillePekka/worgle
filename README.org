@@ -15,7 +15,7 @@ The tangling done by org-babel is embarassingly slow to the point of being
 useless for any projects larger than a script. Worgle aims to make org-tangle
 usable for actual software projects.
 
-The larger goal is to build a spirtual successor to CWEB, a program I use
+The larger goal is to build a spiritual successor to CWEB, a program I use
 on a daily basis to write literate programs in C. It is perhaps one of the best
 literate programming tools out there. Now over 3 decades old,
 CWEB is definitely showing signs of old age.
